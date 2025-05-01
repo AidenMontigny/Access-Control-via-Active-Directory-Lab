@@ -18,7 +18,7 @@ The Access Control via Active Directory Lab focused on implementing and configur
 - <b> Ubuntu 20.04 </b>
 
 <h2>Project walk-through:</h2>
-Documented the successful completion of the Active Directory installation selection process, <br/> confirming that all necessary components were properly configured for domain services <br/> deployment. <br/><br/>
+
 <h3> Part 1 </h3>
 <p align="left">
  The IP address of the Windows Server 10 was configured as a static IP address <br/> (192.168.1.10) to ensure stable network connectivity. <br/><br/>
